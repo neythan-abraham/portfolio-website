@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Neythan Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Neythan Mathew</h1>
+<p>Computer Science Student</p>
+
+<script src="script.js"></script>
+</body>
+</html>
+<section id="about">
+    <h2>About Me</h2>
+    <p>I am a Computer Science student interested in software development.</p>
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>HTML & CSS</li>
+    </ul>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <p>Projects coming soon...</p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <input placeholder="Your email">
+    <button>Send</button>
+</section>
